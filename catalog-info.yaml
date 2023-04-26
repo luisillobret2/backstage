@@ -9,20 +9,20 @@ metadata:
     - javascript
     - react
   links:
-    - url: https://github.com/briandesousa/backstage-sample-service
+    - url: https://https://github.com/luisillobret2/backstage
       title: Backstage Sample Service GitHub
       icon: code
   annotations:
     pagerduty.com/integration-key: c9181af33a984c06d01144f420df074e
-    opsgenie.com/component-selector: 'tag:"service:backstage-sample-service"'
-    jenkins.io/github-folder: 'briandesousa/backstage-sample-service'
-    fossa.io/project-name: backstage-sample-service
+    opsgenie.com/component-selector: 'tag:"service:backstage"'
+    jenkins.io/github-folder: 'luisillobret2/backstage'
+    fossa.io/project-name: backstage
     snyk.io/org-name: briand
     snyk.io/project-ids: 1aff69bc-de69-4d0c-b069-187b159c4465
-    github.com/project-slug: 'briandesousa/backstage-sample-service'
-    goharbor.io/repository-slug: 'briandesousa/backstage-sample-service'
+    github.com/project-slug: 'luisillobret2/backstage'
+    goharbor.io/repository-slug: 'luisillobret2/backstage'
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental
-  owner: briandesousa
+  owner: luisillobret2
