@@ -10,6 +10,6 @@ The Backstage Sample Service is a sample web app generated with create-react-app
 Here's some sample code:
 
 ```python
-list = [1,2,3,4,5]
+list = [1,2,3,4,5,6]
 print("Hello, World!")
 ```
